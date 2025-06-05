@@ -1,4 +1,3 @@
-#/usr/bin/env python3
 import sys
 import random
 from PyQt6.QtWidgets import (QApplication, QMainWindow, QWidget, QLabel, 
